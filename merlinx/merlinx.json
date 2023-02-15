@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "",
+                        "oem": "",
+                        "device": "",
+                        "filename": "crDroidAndroid-13.0-20230215-merlinx-v9.2.zip",
+                        "download": "https://sourceforge.net/projects/crdroid/files/merlinx/9.x/crDroidAndroid-13.0-20230215-merlinx-v9.2.zip/download",
+                        "timestamp": 1676478498,
+                        "md5": "05cb9d3ecfeb0cf0e3be47b7a3911628",
+                        "sha256": "b9672e1a8ac88320a6c9767c85c22a6c4b826597b9ad2924102760966b08c350",
+                        "size": 1083492029,
+                        "version": "9.2",
+                        "buildtype": "",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
