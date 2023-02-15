@@ -1,15 +1,15 @@
 {
         "response": [
                 {
-                        "maintainer": "",
-                        "oem": "",
-                        "device": "",
+                        "maintainer": "Kaike",
+                        "oem": "Xiaomi",
+                        "device": "merlinx",
                         "filename": "crDroidAndroid-13.0-20230215-merlinx-v9.2.zip",
-                        "download": "",
-                        "timestamp": 1676478498,
-                        "md5": "05cb9d3ecfeb0cf0e3be47b7a3911628",
-                        "sha256": "b9672e1a8ac88320a6c9767c85c22a6c4b826597b9ad2924102760966b08c350",
-                        "size": 1083492029,
+                        "download": "https://sourceforge.net/projects/merlixnup/files/crdroid/crDroidAndroid-13.0-20230215-merlinx-v9.2.zip/download",
+                        "timestamp": 1676483479,
+                        "md5": "d3117f9ee6becfe9a9b1c0d4519bb917",
+                        "sha256": "0efae8fd1566e734e218fa6bfef232e3309692f500f6eac9830366012b8d4ce1",
+                        "size": 1083511340,
                         "version": "9.2",
                         "buildtype": "",
                         "forum": "",
@@ -25,4 +25,4 @@
                         "kernel": ""
                 }
         ]
-}
+}                                                                 
