@@ -3,17 +3,17 @@
                 {
                         "maintainer": "Kaike",
                         "oem": "Xiaomi",
-                        "device": "merlinx",
-                        "filename": "crDroidAndroid-13.0-20230215-merlinx-v9.2.zip",
-                        "download": "https://sourceforge.net/projects/merlixnup/files/crdroid/crDroidAndroid-13.0-20230215-merlinx-v9.2.zip/download",
-                        "timestamp": 1676483479,
-                        "md5": "d3117f9ee6becfe9a9b1c0d4519bb917",
-                        "sha256": "0efae8fd1566e734e218fa6bfef232e3309692f500f6eac9830366012b8d4ce1",
-                        "size": 1083511340,
+                        "device": "Redmi Note 9",
+                        "filename": "crDroidAndroid-13.0-20230220-merlinx-GAPPS-v9.2.zip",
+                        "download": "https://sourceforge.net/projects/merlixnup/files/crdroid/crDroidAndroid-13.0-20230220-merlinx-GAPPS-v9.2.zip/download",
+                        "timestamp": 1676847668,
+                        "md5": "2f3eec5260256852a1da28d436d44033",
+                        "sha256": "38360b131c586ae8d59cb34ab1474bb7f6801bfbc59e09c1adfb2c6365714ccd",
+                        "size": 1408232000,
                         "version": "9.2",
-                        "buildtype": "",
+                        "buildtype": "Gapps",
                         "forum": "",
-                        "gapps": "",
+                        "gapps": "Included",
                         "firmware": "",
                         "modem": "",
                         "bootloader": "",
@@ -25,4 +25,4 @@
                         "kernel": ""
                 }
         ]
-}                                                                 
+}
