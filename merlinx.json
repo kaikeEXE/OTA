@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Kaike",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 9",
-                        "filename": "crDroidAndroid-13.0-20230220-merlinx-GAPPS-v9.2.zip",
-                        "download": "https://sourceforge.net/projects/merlixnup/files/crdroid/crDroidAndroid-13.0-20230220-merlinx-GAPPS-v9.2.zip/download",
-                        "timestamp": 1676847668,
-                        "md5": "2f3eec5260256852a1da28d436d44033",
-                        "sha256": "38360b131c586ae8d59cb34ab1474bb7f6801bfbc59e09c1adfb2c6365714ccd",
-                        "size": 1408232000,
-                        "version": "9.2",
-                        "buildtype": "Gapps",
-                        "forum": "",
-                        "gapps": "Included",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Kaike",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 9",
+			"filename": "crDroidAndroid-13.0-20230221-merlinx-GAPPS-v9.2.zip",
+			"download": "https://sourceforge.net/projects/merlixnup/files/crdroid/crDroidAndroid-13.0-20230221-merlinx-GAPPS-v9.2.zip/download",
+			"timestamp": 1677006670,
+			"md5": "96f2fb220f509645869ddc0b501f6289",
+			"sha256": "5dcadbb351bc4a12edf2e3ddcfea74a788e8b759852650f668e19fce9090fe88",
+			"size": 1408194570,
+			"version": "9.2",
+			"buildtype": "Gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://t.me/kaikuwu/97",
+			"paypal": "",
+			"telegram": "https://t.me/kaike",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
